@@ -1,0 +1,14 @@
+{
+  "name": "aenrbot",
+  "version": "0.0.1",
+  "description": "AenR Official's BOT",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "AenR",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
