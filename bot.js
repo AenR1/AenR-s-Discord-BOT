@@ -51,4 +51,4 @@ client.on('guildMemberAdd', member => {
   channel.sendEmbed(embed);
 });
 
-client.login('NDU5MzM4NDAxNTE1MDQ0ODY1.DhE92Q.o_c_Zst5MagYoZAq_zEuM1PNrrE');
+client.login('naber');
