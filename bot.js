@@ -51,4 +51,4 @@ client.on('guildMemberAdd', member => {
   channel.sendEmbed(embed);
 });
 
-client.login('naber');
+client.login('process.env.BOT_TOKEN');
